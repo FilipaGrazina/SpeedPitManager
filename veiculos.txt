@@ -1,0 +1,3 @@
+com.pitstopmanager.speedpitmanager.entidades.Carro@17f052a3
+com.pitstopmanager.speedpitmanager.entidades.Carro@17f052a3
+com.pitstopmanager.speedpitmanager.entidades.Carro@17f052a3

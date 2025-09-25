@@ -1,0 +1,6 @@
+Nome: carlos, Idade: 29
+Nome: joao, Idade: 25
+Nome: joao, Idade: 25
+Nome: carlos, Idade: 28
+Nome: joao, Idade: 25
+Nome: carlos, Idade: 29

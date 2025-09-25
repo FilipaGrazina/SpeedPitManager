@@ -1,0 +1,5 @@
+Nome: ana, Idade: 28, Categoria: Fórmula 1, Pontos: 0, Veículo: Nenhum
+Nome: ana, Idade: 28, Categoria: Fórmula 1, Pontos: 0, Veículo: Nenhum
+Nome: ana, Idade: 28, Categoria: Fórmula 1, Pontos: 0, Veículo: Nenhum
+Nome: ana, Idade: 28, Categoria: Fórmula 1, Pontos: 0, Veículo: Nenhum
+Nome: Ana, Idade: 28, Categoria: Fórmula 1, Pontos: 0, Veículo: Nenhum
