@@ -89,7 +89,7 @@ Validações:
     
 O método Equipa.atribuirVeiculoAoPiloto(...) associa piloto ↔ veículo por nome/modelo.  
 
-Há um teste EquipaIT em progresso; quando estabilizar, podes ativar uma pipeline de build (GitHub Actions) para compilar automaticamente.
+Há um teste EquipaIT em progresso; quando estabilizar.
 
 
 **Próximos passos**
@@ -99,4 +99,4 @@ Há um teste EquipaIT em progresso; quando estabilizar, podes ativar uma pipelin
 
 Requisitos: 
 JDK 17+
-Maven 3.9+ (ou wrappers mvnw/mvnw.cmd se adicionares ao repo)
+Maven 3.9+
